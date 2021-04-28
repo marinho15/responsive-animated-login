@@ -18,6 +18,7 @@
 </p>
 
 
+
 <h2 align="left" id="objetivo">  Objetivo </h2>
 
 
@@ -38,10 +39,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h2 align="left" id="autor">  Autor </h2>
 
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+<a href="#">
+ <img style="border-radius: 50px;" src="./src/assets/img/WhatsApp Image 2021-03-23 at 13.49.48 (1).jpeg" width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Matheus Marinho</b></sub></a> <a href="#" title="Matheus Marinho">🚀</a>
 
 
 Feito com ❤️ por Matheus Marinho 👋🏽 Entre em contato!
