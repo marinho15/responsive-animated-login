@@ -21,8 +21,11 @@
 
 <h2 align="left" id="objetivo">  Objetivo </h2>
 
+<h4> O principal objetivo deste projeto é treinar minhas habilidades de animação e principalmente mostrar minhas habilidades. </h4>
 
 <h2 align="left" id="sobre">  Sobre </h2>
+
+<h4>  O projeto consiste em um formulario de login totalmente responsivo e animado.  </h4>
 
 
 
@@ -36,11 +39,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </h1>
 
 
+<h2 align="left" id="licen-a">  Licença MIT </h2>
+<a href="./LICENCE"> 
+<img src="https://img.shields.io/static/v1?label=Licenca&message=MIT&color=gray&style=for-the-badge&logo=ghost"/>
+</a>
+
+
 <h2 align="left" id="autor">  Autor </h2>
 
 
 <a href="#">
- <img style="border-radius: 50px;" src="./src/assets/img/WhatsApp Image 2021-03-23 at 13.49.48 (1).jpeg" width="100px;" alt=""/>
+ <img src="./src/assets/img/WhatsApp Image 2021-03-23 at 13.49.48 (1).jpeg" width="100px;" alt="" />
  <br />
  <sub><b>Matheus Marinho</b></sub></a> <a href="#" title="Matheus Marinho">🚀</a>
 
